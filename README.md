@@ -6,7 +6,7 @@ This app allows users to search for any city and view **real-time weather data**
 ---
 ## 🚀 Live Demo
 
-🔗 Live Site: 
+🔗 Live Site: https://weather-app-chi-six-88.vercel.app/
 
 ## 📂 GitHub Repository
 
