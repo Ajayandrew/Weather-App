@@ -10,7 +10,7 @@ This app allows users to search for any city and view **real-time weather data**
 
 ## 📂 GitHub Repository
 
-🔗 Repository: 
+🔗 Repository: https://github.com/Ajayandrew/Weather-App.git
 
 ---
 
