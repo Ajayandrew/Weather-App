@@ -4,7 +4,13 @@ A responsive and innovative **Weather Report App** built with **React** and **Ta
 This app allows users to search for any city and view **real-time weather data** with a modern, attractive UI.
 
 ---
+## 🚀 Live Demo
 
+🔗 Live Site: 
+
+## 📂 GitHub Repository
+
+🔗 Repository: 
 
 ---
 
